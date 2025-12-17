@@ -2,6 +2,8 @@
 
 AI powered productivity platform built to transform unstructured content into actionable output through document summarization, task extraction, and intelligent search workflows.
 
+🔗 **Live Demo:** [nueraflow2.vercel.app](https://nueraflow2.vercel.app/)
+
 ---
 
 ## Overview
@@ -44,25 +46,12 @@ NueraFlow is an AI driven productivity platform focused on turning documents and
 
 ## Tech Stack
 
-**Core Framework**
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
-
-**AI & Backend**
-- OpenAI API
-- Serverless functions
-- Vector embeddings
-
-**Infrastructure**
-- Vercel deployment
-- Edge functions
-- PostgreSQL database
-
-**Tooling**
-- Git/GitHub workflows
-- Environment management
+| Frontend | AI & Backend | Infrastructure | Tooling |
+|----------|--------------|----------------|---------|
+| React | OpenAI API | Vercel | Git |
+| TypeScript | Serverless Functions | Edge Functions | GitHub |
+| Next.js | Vector Embeddings | PostgreSQL | |
+| Tailwind CSS | | | |
 
 ---
 
@@ -77,20 +66,14 @@ Built to demonstrate production-level AI integration, not experimental demos.
 
 ---
 
-## Live Demo
-
-🔗 **[View Live Application](https://nueraflow2.vercel.app/)**
-
----
-
-## Architecture
+## Project Structure
 ```
 ├── Frontend (React/TypeScript)
 │   ├── Async-first component architecture
 │   ├── Streaming response handling
 │   └── AI-driven user interactions
 │
-├── API Integration
+├── AI Integration
 │   ├── OpenAI API integration
 │   ├── Document summarization workflows
 │   └── Serverless API architecture
