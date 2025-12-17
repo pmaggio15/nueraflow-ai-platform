@@ -1,86 +1,94 @@
-# NeuraFlow — AI Productivity Platform
+# NeuraFlow AI — AI Productivity Platform
 
-NeuraFlow is a full-stack AI productivity platform designed to streamline research, document processing, and task management workflows.
-
-It combines modern frontend architecture with AI-driven backend services to deliver fast, scalable, production-ready functionality.
+AI powered productivity platform built to transform unstructured content into actionable output through document summarization, task extraction, and intelligent search workflows.
 
 ---
 
-## Core Capabilities
+## Overview
 
-- AI-powered summarization and task extraction using OpenAI APIs  
-- Secure, authenticated user workflows  
-- Real-time productivity dashboard with structured outputs  
-- Scalable REST API architecture  
-- Responsive, production-grade user interface  
+NeuraFlow is an AI driven productivity platform focused on turning documents and unstructured text into structured, actionable insights. Built with modern frontend architecture and AI integration, the platform delivers fast, scalable workflows for research, document processing, and task management.
 
 ---
 
-## Architecture Overview
+## Key Features
 
-**Frontend**
-- React with component-driven architecture
-- Type-safe UI patterns
-- Optimized state handling for async AI workflows
+- **AI powered document summarization** extracting key insights from unstructured text
+- **Automated task extraction** identifying actionable items from content
+- **Intelligent search** with contextual lookup and recommendations
+- **Real time productivity dashboard** with structured AI outputs
+- **Async workflow management** with predictable UI states
+- **Serverless API architecture** optimized for performance
 
-**Backend**
-- Node.js and Express REST API
-- OpenAI API integration
-- Secure request handling and environment-based configuration
+---
 
-**Data Layer**
-- Relational database with indexed queries
-- Clean schema design supporting future expansion
+## Technical Architecture
+
+### Frontend
+- **React + TypeScript** with component driven architecture
+- **Predictable data flows** for complex async AI workflows
+- **Reusable component patterns** for scalable UI development
+- **Performance optimized rendering** with intelligent state updates
+
+### AI Integration
+- **OpenAI API** for text analysis and generation
+- **Embeddings & vector search** for contextual recommendations
+- **Structured output transformation** for UI rendering
+- **Error handling and retry logic** for reliable AI interactions
+
+### Infrastructure
+- **Serverless API routes** on Vercel edge functions
+- **Sub 100ms response times** for instant AI interactions
+- **Environment based configuration** for secure API management
 
 ---
 
 ## Tech Stack
 
-**Core**
+**Core Framework**
 - React
 - TypeScript
-- JavaScript
-- Node.js
-- Express
+- Next.js
 - Tailwind CSS
 
 **AI & Backend**
 - OpenAI API
-- PostgreSQL
-- Serverless-friendly architecture
+- Serverless functions
+- Vector embeddings
 
-**Tooling & Infrastructure**
-- Git
-- GitHub
-- Vercel
-- Environment-based configuration
+**Infrastructure**
+- Vercel deployment
+- Edge functions
+- PostgreSQL database
+
+**Tooling**
+- Git/GitHub workflows
+- Environment management
 
 ---
 
-## Engineering Focus
+## Engineering Highlights
 
-- Maintainable component architecture  
-- Clear separation of concerns  
-- Predictable data flow  
-- Performance-conscious UI updates  
-- Scalability over shortcuts  
+✓ **AI-First Design** — Workflows built around async AI operations with resilient state management  
+✓ **Performance Focus** — Serverless architecture optimized for sub 100ms API response times  
+✓ **Scalable Patterns** — Component architecture designed for increasing workflow complexity  
+✓ **Production-Ready** — Error handling, retry logic, and predictable user flows  
 
-NeuraFlow was built to resemble real production systems — not tutorial-style demos.
+Built to demonstrate production-level AI integration, not experimental demos.
 
 ---
 
 ## Live Demo
 
-🔗 https://nueraflow2.vercel.app/
+🔗 **[View Live Application](https://nueraflow2.vercel.app/)**
 
 ---
 
 ## Author
 
 **Paige Maggio**  
-Frontend Engineer — React, TypeScript, AI-Driven Interfaces  
+Frontend Engineer | React, TypeScript, Next.js  
 
-📍 Montana  
 📧 pmaggio15@gmail.com  
-🌐 https://paigemaggio.dev  
-💼 https://linkedin.com/in/paigemaggio
+🌐 [paigemaggio.dev](https://paigemaggio.dev)  
+💼 [LinkedIn](https://linkedin.com/in/paigemaggio)  
+🐙 [GitHub](https://github.com/pmaggio15)
