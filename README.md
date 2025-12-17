@@ -83,12 +83,29 @@ Built to demonstrate production-level AI integration, not experimental demos.
 
 ---
 
+## Architecture
+```
+├── Frontend (React/TypeScript)
+│   ├── Async-first component architecture
+│   ├── Streaming response handling
+│   └── AI-driven user interactions
+│
+├── API Integration
+│   ├── OpenAI API integration
+│   ├── Document summarization workflows
+│   └── Serverless API architecture
+│
+└── Data & Deployment
+    ├── PostgreSQL database
+    ├── Vercel deployment
+    └── Real-time AI processing
+```
+
+---
+
 ## Author
 
 **Paige Maggio**  
-Frontend Engineer | React, TypeScript, Next.js  
+Frontend Engineer — React, TypeScript, Next.js
 
-📧 pmaggio15@gmail.com  
-🌐 [paigemaggio.dev](https://paigemaggio.dev)  
-💼 [LinkedIn](https://linkedin.com/in/paigemaggio)  
-🐙 [GitHub](https://github.com/pmaggio15)
+[Portfolio](https://paigemaggio.dev) • [LinkedIn](https://linkedin.com/in/paigemaggio) • [GitHub](https://github.com/pmaggio15)
