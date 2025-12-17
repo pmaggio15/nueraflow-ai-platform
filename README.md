@@ -1,4 +1,4 @@
-# NeuraFlow AI — AI Productivity Platform
+# NueraFlow AI — AI Productivity Platform
 
 AI powered productivity platform built to transform unstructured content into actionable output through document summarization, task extraction, and intelligent search workflows.
 
@@ -6,7 +6,7 @@ AI powered productivity platform built to transform unstructured content into ac
 
 ## Overview
 
-NeuraFlow is an AI driven productivity platform focused on turning documents and unstructured text into structured, actionable insights. Built with modern frontend architecture and AI integration, the platform delivers fast, scalable workflows for research, document processing, and task management.
+NueraFlow is an AI driven productivity platform focused on turning documents and unstructured text into structured, actionable insights. Built with modern frontend architecture and AI integration, the platform delivers fast, scalable workflows for research, document processing, and task management.
 
 ---
 
