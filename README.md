@@ -66,26 +66,6 @@ Built to demonstrate production-level AI integration, not experimental demos.
 
 ---
 
-## Project Structure
-```
-├── Frontend (React/TypeScript)
-│   ├── Async-first component architecture
-│   ├── Streaming response handling
-│   └── AI-driven user interactions
-│
-├── AI Integration
-│   ├── OpenAI API integration
-│   ├── Document summarization workflows
-│   └── Serverless API architecture
-│
-└── Data & Deployment
-    ├── PostgreSQL database
-    ├── Vercel deployment
-    └── Real-time AI processing
-```
-
----
-
 ## Author
 
 **Paige Maggio**  
